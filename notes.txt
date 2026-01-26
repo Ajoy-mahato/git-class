@@ -10,3 +10,8 @@ git log
 git switch main
 git switch -c dark-mode
 git checkout orange-mode
+
+
+-----------merging----
+git checkout main
+git merge bug-fix
