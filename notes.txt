@@ -1,0 +1,2 @@
+bydefault git ignore empty folder 
+if you want to add empty folder then you can create a .gitkeep file in your empty folder
