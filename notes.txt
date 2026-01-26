@@ -1,2 +1,12 @@
 bydefault git ignore empty folder 
 if you want to add empty folder then you can create a .gitkeep file in your empty folder
+
+----------branch---------------
+1.To create a new branch, you can use the following command:-
+git branch
+git branch bug-fix
+git switch bug-fix
+git log
+git switch main
+git switch -c dark-mode
+git checkout orange-mode
